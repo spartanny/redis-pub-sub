@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Output directory
+dist/
+
+
+# VS Code settings
+.vscode/
